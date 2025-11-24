@@ -1,0 +1,5 @@
+# input("what is your name ? ")
+print("hello"+" "+ input("what is your name ?"))
+a = input("what is your name ? ")
+print(a)
+print("Hey Jenny, how are you ?")
